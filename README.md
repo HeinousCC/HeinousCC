@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeinousCC
 - 👀 I’m interested in not living fully depressed
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on tekken play tekken with me
+- 💞️ I’m looking to ...
 - 📫 How to reach me discord
 
 <!---
